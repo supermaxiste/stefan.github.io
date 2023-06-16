@@ -1,0 +1,9 @@
+name: "Stefan-on-the-web"
+output_dir: "."
+navbar:
+  title: "Stefan-on-the-web"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "About"
+      href: about.html
